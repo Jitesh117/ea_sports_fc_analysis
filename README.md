@@ -1,5 +1,3 @@
-# Tasks for EA Sports FIFA Dataset
-
 1. **Basic Data Summary:**
    - [x] Obtain a general summary of the dataset, including basic statistics and information about the columns.
 
