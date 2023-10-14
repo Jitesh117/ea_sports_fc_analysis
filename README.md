@@ -1,11 +1,11 @@
 # Tasks for EA Sports FIFA Dataset
 
 1. **Basic Data Summary:**
-   - [ ] Obtain a general summary of the dataset, including basic statistics and information about the columns.
+   - [x] Obtain a general summary of the dataset, including basic statistics and information about the columns.
 
 2. **Data Cleaning:**
-   - [ ] Check for and handle any missing or null values in the dataset.
-   - [ ] Handle any inconsistencies in column names or values.
+   - [x] Check for and handle any missing or null values in the dataset.
+   - [x] Handle any inconsistencies in column names or values.
 
 3. **Exploratory Data Analysis (EDA):**
    - [x] Explore the distribution of players' ages.
